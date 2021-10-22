@@ -4,7 +4,7 @@ import { CreateMessageController } from "./controllers/CreateMessageController";
 import { GetLast3MessagesController } from "./controllers/GetLast3MessagesController";
 import { GetProfileUserController } from "./controllers/ProfileUserController";
 import { ensureAthenticate } from "./middleware/ensureAthenticate";
-import { ProfileUserServices } from "./services/ProfileUserService";
+
 
 const router = Router();
 
