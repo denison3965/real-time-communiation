@@ -42,9 +42,9 @@ For this project, the backend project needs to be running, you can find it at <a
 First, clone the repository and move to the file
 
 ```sh
-  git clone https://github.com/pablogiaccon/nlw-heat-web/
+  git clone https://github.com/denison3965/real-time-communiation
 
-  cd nlw-heat-web
+  cd real-time-communiation
 ```
 
 ### Prerequisites
